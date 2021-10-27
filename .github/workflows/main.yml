@@ -1,4 +1,4 @@
-name: hsxrdp
+name: main
 
 on: workflow_dispatch
 
